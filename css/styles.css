@@ -74,7 +74,7 @@ color: #2E2F42;
 .header-link:hover,
 .header-link:focus
 {
-    
+    color: #404BBF;
 }
 .address {
 font-size: 16px;
@@ -97,7 +97,7 @@ color: #434455;
 }
 .address-mail:hover,
 .address-mail:focus{
-    
+    color: #404BBF;
 }
 .address-tel {
 font-family: 'Roboto';
@@ -115,7 +115,7 @@ color: #434455;
 }
 .address-tel:hover,
 .address-tel:focus {
-    
+    color: #404BBF;
 }
 .section1 {
     
